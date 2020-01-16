@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=zW_HyDTPjO0
         -unittest,none,pytest(must pupular, we will use it)
         -type "pip install pytest" under python
         -type "pytest -h" (3:57)
-        -
+        -in math_func.py
         -          
         -
         -
