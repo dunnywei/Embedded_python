@@ -11,13 +11,30 @@ http://mhhe.com/engcs/compsci/pressman/information/olc/ISO9000.html
 ->python with c extension
 https://www.youtube.com/watch?v=a65JdvOaygM
 
+  -Writing in C code has the limit in math cacluation such as cryptography
+        -check (4:16)          
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+        -
+
+
+
 ->Test driven development with python
 
 https://www.zhihu.com/question/24294427/answer/511746646
+
+->python test with C
+Writing unit tests for C code in Python
+https://www.youtube.com/watch?v=zW_HyDTPjO0
 ->Lecture 1->Python Unit Testing With PyTest 1 - Getting started with pytest
         -unittest,none,pytest(must pupular, we will use it)
         -type "pip install pytest" under python
-        -type "pytest -h"
+        -type "pytest -h" (on hold)
         -
         -          
         -
