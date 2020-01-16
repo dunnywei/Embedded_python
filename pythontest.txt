@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=_QtM7QGuj1A&list=PLS1QulWo1RIaNFUz4zrztWlCJgkpXh
 
 ->iso 9001 for software
 http://mhhe.com/engcs/compsci/pressman/information/olc/ISO9000.html
+
+->python with c extension
+https://www.youtube.com/watch?v=a65JdvOaygM
 ->Lecture 1->Python Unit Testing With PyTest 1 - Getting started with pytest
         -unittest,none,pytest(must pupular, we will use it)
         -type "pip install pytest" under python
