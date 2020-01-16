@@ -12,7 +12,7 @@ http://mhhe.com/engcs/compsci/pressman/information/olc/ISO9000.html
 https://www.youtube.com/watch?v=a65JdvOaygM
 
   -Writing in C code has the limit in math cacluation such as cryptography
-        -check (4:16)          
+        -check (4:16)(on hold)          
         -
         -
         -
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=zW_HyDTPjO0
 ->Lecture 1->Python Unit Testing With PyTest 1 - Getting started with pytest
         -unittest,none,pytest(must pupular, we will use it)
         -type "pip install pytest" under python
-        -type "pytest -h" (on hold)
+        -type "pytest -h" (3:57)
         -
         -          
         -
